@@ -1,0 +1,32 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# Local Epic Fab editor plugin; install separately from the official Linux downloads.
+/Plugins/Fab/
+
+# Local authoring files and validation reports
+/Scripts/
+/Docs/
+/Config/DefaultEditorPerProjectUserSettings.ini
+/work/
+/outputs/
+/.*/
+*.py
+*.pyw
+*.pyi
+*.pyc
+*.pyo
+*.ipynb
+__pycache__/
